@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://garri-shtyrkin-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Garri Shtyrkin</h1>
 <h3 align="center">A passionate web site developer from U.S.</h3>
-<img img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU2Mzc3MjQsIm5iZiI6MTcxNTYzNzQyNCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTEzVDIxNTcwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM2Y2FjMDNiODY1OWQxMDY1ZGQ4NDdmYzQ2NThmNzU2NGNiNWQ1ZTUxNjljNTZlMDQ0NTRjMDM1YmU1MWNmMDUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IVCaI7_Y-zYWq-4LMS3ON15Tt3owVtvCG4Ok5Tq1ywc">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snail1227&label=Profile%20views&color=0e75b6&style=flat" alt="snail1227" /> </p>
 
